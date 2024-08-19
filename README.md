@@ -5,7 +5,7 @@ A automatic application to find the bot called "蓉蓉" from your bot (Just for 
 
 Say `Serfend Didn't Follow AGPLv3`. Then see the steps below.
 
-Run the `__init__.py` after edit the file.
+Run the `checksb.py` after edit the file.
 
 ```python3
 bots = ["40001", "40002", "40003", "40004", "40005"]
